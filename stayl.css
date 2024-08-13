@@ -1,0 +1,208 @@
+.a{
+    display: none;
+    position: absolute;
+}
+
+.div{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    column-gap: 1%;
+    
+}
+.dumaloq{
+    border: solid 2px yellow;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: yellow;
+    transition: calc(.9s);
+}
+.sun{
+    font-size: 30px;
+}
+.disp{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    
+    margin-left: 85%;
+}
+
+.bodynew{
+    background-color: black;
+    color: white;
+}
+.bt{
+    border: none;
+    background-color: black;
+    width: 80px;
+    height: 40px;
+    border-radius: 35px;
+}
+
+.col{
+    margin: auto;
+}
+.dumaloqnew{
+    margin-left: 35px;
+}
+.big{
+border: none;
+}
+.lak , .lal , .l , .la{
+    border: solid 5px black;
+    color: lime;
+    background-color: black;
+    width: 100px;
+    /* margi-left: 50px; */
+    text-align: center;
+}
+
+.limon{
+    display: none;
+}
+.qora , .div{
+    color: white;
+}
+.anew{
+    display: block;
+}
+.limo{
+    display: none;
+}
+.ane{
+    display: block;
+}
+.bu{
+    width: 100px;
+    height: 30px;
+    border: none;
+    background-color: gray ;
+    color: white;
+}
+
+.lion{
+    display: none;
+}
+.lio{
+    display: none;
+}
+.an{
+    display: block;
+}
+.bodyneww{
+    display: none;
+}
+.displ{
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 30px;
+    column-gap: 3%;
+    align-items: center;
+
+}
+.kic{
+    width: 100%;
+}
+.qor{
+    background-color: gray;
+    margin-bottom: 10px;
+}
+.for{
+    display: none;
+}
+.fo{
+    display: block;
+}
+.x{
+    margin-left:50%;
+}
+.put{
+    width: 80%;
+    height: 30px;
+}
+.tt{
+    width: 15%;
+    height: 36px;
+    border: none;
+}
+.divnew{
+    color: white;
+}
+.aanew{
+   color: white;
+}
+
+.bignew{
+    background-color: white;
+    color: black;
+}
+.tex , .teh{
+    border: none;
+    border-radius: 15px;
+    padding: 5px;
+}
+.top{
+    border: solid 3px gray;
+    width: 225px;
+    background-color: white;
+    border-radius: 15px;
+    margin-left: 35px;
+}
+.ju{
+    position: relative;
+    bottom: 450px;
+    background-color: blue;
+    width: 300px;
+    text-align: center;
+    left: 500px;
+    display: none;
+}
+.junew{
+    display: block;
+}
+.bodyne{
+    background-color: rgba(0, 0, 0, 0.199);
+}
+.book{
+    width: 100px;
+    height: 30px;
+    border: none;
+    background-color: gray ;
+    color: white;
+}
+.kic{
+    height: 500px;
+}
+.luk , .luku{
+    position: relative;
+}
+.luku{
+    display: none;
+}
+.liki{
+    display: block;
+}
+.su{
+    color: black;
+    font-size: 20px;
+}
+.avatar{
+    position: absolute;
+    bottom: 20px;
+    width: 100px;
+    left: 90%;    
+}
+.avatarr{
+    position: absolute;
+    bottom: 130px;
+    height:300px;
+    left: 65%;
+    width: 30%;
+    background-color: blue;
+    color: white;    
+}
